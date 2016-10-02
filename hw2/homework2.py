@@ -291,20 +291,3 @@ def bfs_lines_distinct(length, n):
                 encountered_states.add(tuple(next_instance.disks))
                 queue.append(next_instance)
 
-
-
-############################################################
-# Section 4: Feedback
-############################################################
-
-feedback_question_1 = """
-10 hours
-"""
-
-feedback_question_2 = """
-Implementing the find_solution method was particularly challenging and difficult to understand at first.
-"""
-
-feedback_question_3 = """
-I liked the interactive GUI for LightsOut.
-"""
